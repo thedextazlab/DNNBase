@@ -4,10 +4,10 @@
       <friendlyName>DnnContra</friendlyName>
       <description>A responsive DNN skin using Bootstrap v4.0.0. Requires installation via the Host/Extensions page.</description>
       <owner>
-        <name>Geoff Barlow</name>
-        <organization>DnnConsulting.nl</organization>
-        <url>http://www.DnnConsulting.nl</url>
-        <email>info@DnnConsulting.nl</email>
+        <name>David Kisamfu</name>
+        <organization>THEDEXTAZLAB STUDIOS</organization>
+        <url>httpS://www.thedextazlab.com</url>
+        <email>info@thedextazlab.com</email>
       </owner>
       <azureCompatible>true</azureCompatible>
       <license src="License.txt"></license>
@@ -37,10 +37,10 @@
       <friendlyName>DnnContra</friendlyName>
       <description>Containers for the DnnContra Theme package.</description>
       <owner>
-        <name>Geoff Barlow</name>
-        <organization>DnnConsulting.net</organization>
-        <url>https://www.DnnConsulting.net</url>
-        <email>info@DnnConsulting.nl</email>
+        <name>David Kisamfu</name>
+        <organization>THEDEXTAZLAB STUDIOS</organization>
+        <url>httpS://www.thedextazlab.com</url>
+        <email>info@thedextazlab.com</email>
       </owner>
       <license src="License.txt"></license>
       <releaseNotes src="ReleaseNotes.txt"></releaseNotes>
