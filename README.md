@@ -1,9 +1,7 @@
-# DnnC Contra Theme
+# DNN Base
 ## Description
 
-A free open source responsive skin\theme for Dnn (DotNetNuke) using Bootstrap4.
-
-A demo of the theme/skin can be viewed by visiting [http://www.dnncontra.com](http://www.dnncontra.com "Official DnnContra site")
+A free open source responsive skin\theme for Dnn (DotNetNuke) using Bootstrap 4.
 
 ## Warning : Install on Dnn 08.00.00
 There is a small bug in this version of Dnn that will stop the menu showing.
